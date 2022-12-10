@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['917605902011', 'GURU', true],
+  ['94740979220', 'Red Alpha', true],
   [''], 
   [''] 
 ] //Numeros de owner 
 
-global.mods = ['917605902011'] 
-global.prems = ['917605902011', '923258787253', '919398758484']
+global.mods = ['94740979220'] 
+global.prems = ['94740979220', '94764880177', '94766395983']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -25,13 +25,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'Red Alpha' 
+global.author = '@Red Alpha' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/FYvu6iqA7UA3sGePjPK636'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.dygp = 'https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j'
+global.fgsc = 'https://github.com/MhmdMukarram' 
+global.fgyt = 'https://youtube.com/@King'
+global.fgpyp = 'https://youtube.com/@King'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
